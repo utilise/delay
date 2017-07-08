@@ -15,5 +15,8 @@
     "mocha": "^2.2.4",
     "mocha-lcov-reporter": "0.0.2",
     "utilise.time": "0.0.4"
+  },
+  "dependencies": {
+    "utilise.promise": "0"
   }
 }
